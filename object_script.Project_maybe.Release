@@ -1,0 +1,17 @@
+INPUT(
+./release\qrc_resource.o
+./release\main.o
+./release\secondwindow.o
+./release\dialog_for_upgrade.o
+./release\sqlite3.o
+./release\win_or_lose.o
+./release\name.o
+./release\start.o
+./release\language.o
+./release\moc_secondwindow.o
+./release\moc_dialog_for_upgrade.o
+./release\moc_win_or_lose.o
+./release\moc_name.o
+./release\moc_start.o
+./release\moc_language.o
+);

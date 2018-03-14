@@ -1,0 +1,14 @@
+health   - int
+power    - int
+recovery - int
+coins    - int
+level    - int
+count    - int
+
+health   - int
+power    - int
+
+name     - string
+name     - string
+
+10

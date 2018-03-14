@@ -1,0 +1,17 @@
+INPUT(
+./debug\qrc_resource.o
+./debug\main.o
+./debug\secondwindow.o
+./debug\dialog_for_upgrade.o
+./debug\sqlite3.o
+./debug\win_or_lose.o
+./debug\name.o
+./debug\start.o
+./debug\language.o
+./debug\moc_secondwindow.o
+./debug\moc_dialog_for_upgrade.o
+./debug\moc_win_or_lose.o
+./debug\moc_name.o
+./debug\moc_start.o
+./debug\moc_language.o
+);
